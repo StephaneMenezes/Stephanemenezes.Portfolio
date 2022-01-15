@@ -24,13 +24,20 @@ Experiência em projetos acadêmicos utilizando as linguagens Python e R.
 * Email: Stephanemenezes@fisica.ufc.br
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
-* **Análise Setembro Amarelo :** https://bit.ly/2L2cMwy
-* **Web Scrapping Mercado Livre :** https://bit.ly/3rjDHIn
-* **Dashboard de Lógistica com PowerBI :** https://bit.ly/3trAzga
+* **Análise Setembro Amarelo :** https://github.com/StephaneMenezes/WebScrappingMercado-Livre
+* **Web Scrapping Mercado Livre :** https://github.com/StephaneMenezes/WebScrappingMercado-Livre
+* **Dashboard de Lógistica com PowerBI :** https://github.com/StephaneMenezes/Dashboardl-gistica
+* **Análise de precipitações por temperatura (PIBIC) :** https://github.com/StephaneMenezes/plotagemprecipita-o2001
 
+## Experiências: 
+* Bolsista PIBIC - 2020 / 2021 - Universidade Federal do Ceará - Análise de chuvas para verificação da interferência das ilhas de calor no Estado do Ceará.
 
+**Responsabilidades:** Análise e manipulação de dados, plotagem de gráficos e criação de relatórios para verificar a existência das ilhas de calor e sua interferência nas cidades ao lado da grande Fortaleza.
+* Estagiária em E-commerce Analytics - 2021/2022 - DiTi Perfomance
+
+**Responsabilidades:** Análise e manipulação de dados, criação de relatórios em ferramentas como PowerBI e Data Studio, criação de Landing Pages, análisar perfomance de campanhas, utilização de Google Analytics, Google TagManager e Google Ads. 
+ 
 
 ---
 
