@@ -29,6 +29,8 @@ Experiência em projetos acadêmicos utilizando as linguagens Python e R.
 * **Web Scrapping Mercado Livre :** https://github.com/StephaneMenezes/WebScrappingMercado-Livre
 * **Dashboard de Lógistica com PowerBI :** https://github.com/StephaneMenezes/Dashboardl-gistica
 * **Análise de precipitações por temperatura (PIBIC) :** https://github.com/StephaneMenezes/plotagemprecipita-o2001
+* **Web Scrapping com Python e Selenium:** https://github.com/StephaneMenezes/Webscrepping-1-vers-o
+* **Site em |HTML|CSS|JAVASCRITPT| Para a realização de um plano de Tracking no GTM:** https://github.com/StephaneMenezes/planodetracking
 
 ## Experiências: 
 * Bolsista PIBIC - 2020 / 2021 - Universidade Federal do Ceará - Análise de chuvas para verificação da interferência das ilhas de calor no Estado do Ceará.
